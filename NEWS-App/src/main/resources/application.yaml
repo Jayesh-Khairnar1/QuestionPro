@@ -1,0 +1,3 @@
+spring.cache.cache-names=myCacheName
+spring.cache.caffeine.spec=expireAfterWrite=15m
+
